@@ -19,6 +19,10 @@ End Game rules:
 
 3- Only one civilian left. (Undercovers win!)
 
-# Run Instruction
+# Requierments
+
+This program requires: Selenium, NLTK, Telepot, Requests, lxml, Beautifulsoup, and Geckodriver
+
+# Usage
 
 To run the code, enter your bot token in the undercover.py file and run it.
