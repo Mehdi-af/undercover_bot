@@ -21,8 +21,24 @@ End Game rules:
 
 # Requierments
 
-This program requires: Selenium, NLTK, Telepot, Requests, lxml, Beautifulsoup, and Geckodriver
+This program requires: 
+
+- Selenium 
+
+- NLTK
+
+- Telepot
+
+- Requests
+
+- lxml
+
+- Beautifulsoup
+
+- Geckodriver
 
 # Usage
 
 To run the code, enter your bot token in the undercover.py file and run it.
+
+`python undecover.py`
